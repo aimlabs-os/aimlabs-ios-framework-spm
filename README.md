@@ -1,2 +1,3 @@
-# aimlabs-ios-framework-spm
-aimlabs-ios-framework-spm
+# AMLFrameworkSPM
+
+A Sample for AMLFramework SPM
